@@ -8,7 +8,7 @@ Welcome to **Bluegrass Grill**, a beautifully designed static restaurant website
 
 ## 🌐 Live Demo
 
-- [Click Here to See Live Demo!](https://deeps1970.github.io/Netflix-Clone/)
+- [Click Here to See Live Demo!](https://deeps1970.github.io/Foodie-Spot/)
 
 ---
 
